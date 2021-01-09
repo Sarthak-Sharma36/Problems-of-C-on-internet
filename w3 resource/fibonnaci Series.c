@@ -10,6 +10,5 @@ int main()
          b=result;
       }
       getchar();
-      getchar();// compiler hai ya nhi ye bhi dekhle// badn krde dono///////// gnu c++ compiler??
-} // kuch ni hota CChljayegu han 
-// bye ab ho jaayega jab complete ho jaaye installation tab chlana dekj han h
+      getchar();
+}
