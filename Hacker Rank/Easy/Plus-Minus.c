@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{ int  userinput = 0,element = 0,p = 0,n=0,z=0;
+{ int  userinput = 0,element = 0;
+	float p = 0,n=0,z=0;
 
 	scanf("%d",&userinput);
 	float  arr[userinput];
